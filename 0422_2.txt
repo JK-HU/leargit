@@ -4,3 +4,9 @@
 曾经知用过的笔名：南湖、诗哲、海谷、谷道、大兵、云中鹤、仙鹤、删我、心手、黄狗、谔谔,自己增加的等。
 徐志摩是新月派代表诗人，新月诗社成员。
 他的散文也自成一格，取得了不亚于诗歌的成就版，其中《自剖》《想飞》《我权所知道的康桥》《翡冷翠山居闲话》等都是传世的名篇。
+推送到远程仓库
+	git remote add origin https://github.com/JK-HU/leargit.git
+	git push -u origin master
+	
+	git remote add origin https://github
+	git push -u origin master
